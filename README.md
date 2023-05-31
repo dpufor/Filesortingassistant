@@ -4,7 +4,7 @@ Filesortingassistant文件整理助手 是一个基于Python开发的文件整�
 
 ![1685502698356](./img/screenshot1.png)
 
-双击打包好的exe文件即可运行，无需安装依赖环境。
+点击[Release](https://github.com/dpufor/Filesortingassistant/releases）下载，双击打包好的exe文件即可运行，无需安装依赖环境。
 
 整理方式有：按年、月、日、类型、日+类型。
 
